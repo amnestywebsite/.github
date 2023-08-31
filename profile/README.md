@@ -4,7 +4,7 @@ Here you will find many Amnesty International website related projects.
 
 You can also find repositories from other teams such as [Amnesty Crisis](https://github.com/amnesty-crisis-evidence-lab), [Amnesty Tech](https://github.com/AmnestyTech) and [Amnesty Research](https://github.com/amnestyresearch/) in their GitHub accounts
 
-
+![AmnestyWebsiteFooter](https://github.com/amnestywebsite/.github-private/assets/37809410/ef5f7019-6291-4be9-a931-35d091c0cd1e)
 
 <!--
 

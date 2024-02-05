@@ -2,7 +2,8 @@
 
 Here you will find many Amnesty International website related projects, as you are a member you will also be seeing our private repos with all our WordPress goodies! 
 
-![website](https://github.com/amnestywebsite/.github-private/assets/37809410/7982ad00-3165-4141-a480-4a672a94e3ec)
+![image](https://github.com/amnestywebsite/.github-private/assets/37809410/5e108ba7-b1ce-4918-8b27-c38a4450324a)
+<!-- https://ui.dev/amiresponsive?url=https://www.amnesty.eu/ --> 
 
 
 ## Want to know the people behind the work?

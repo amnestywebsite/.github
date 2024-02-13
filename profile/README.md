@@ -31,6 +31,8 @@ We have also had many contributions from our partner agency.
 | [ampersarnie](https://github.com/ampersarnie)   |  
 | [BBTomA](https://github.com/BBTomA)   |  
 
+And [Cure53](https://github.com/Cure53)
+
 Each of the 37 sites lanuched since 2018 that uses the theme and plugins have also improved the theme for existing and future users, thanks!
 
 

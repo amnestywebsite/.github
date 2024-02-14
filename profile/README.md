@@ -1,6 +1,6 @@
 ## Welcome to the Amnesty International Web Operations Team
 
-Here you will find many Amnesty International website related projects, as you are a member you will also be seeing our private repos with all our WordPress goodies! 
+Here you will find many Amnesty International website related projects, as you are not a member of the organisation you will need to get intouch if you need access to any of our private WordPress repos, but lucky for you they are mostly open. 
 
 ![image](https://wordpresstheme.amnesty.org/wp-content/uploads/2024/02/screenshot.png)
 <!-- https://ui.dev/amiresponsive?url=https://www.amnesty.eu/ --> 

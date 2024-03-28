@@ -22,7 +22,7 @@ We have also had many contributions from our partner agency.
 
 | [BigBite](https://github.com/bigbite)        |  
 | :---------- | 
-| [jonmcp](https://github.com/jonmcp)   |     
+| [jaymcp](https://github.com/jaymcp)   |     
 | [Gentyspun](https://github.com/Gentyspun)   |       
 | [Hannah](https://github.com/hannah-healey)   |        
 | [Lisa-Mac](https://github.com/Lisa-Mac)   |      

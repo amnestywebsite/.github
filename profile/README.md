@@ -33,7 +33,7 @@ We have also had many contributions from our partner agency.
 
 And [Cure53](https://github.com/Cure53) who have helped with testing. 
 
-Each of the 37 sites launched since 2018 that uses the theme and plugins have also improved the theme for existing and future users, thanks!
+Each of the 38 sites launched since 2018 that uses the theme and plugins have also improved the theme for existing and future users, thanks!
 
 
 ## Want to know more about the Humanity WordPress theme and plugins? 

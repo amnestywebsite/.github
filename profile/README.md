@@ -31,7 +31,10 @@ We have also had many contributions from our partner agency.
 | [ampersarnie](https://github.com/ampersarnie)   |  
 | [BBTomA](https://github.com/BBTomA)   |  
 
-And [Cure53](https://github.com/Cure53) who have helped with providing a pen test report accessible here https://wordpresstheme.amnesty.org/wp-content/uploads/2024/05/AI-02-report.final_.v5-Fixes-redacted.pdf . 
+| [Cure53](https://github.com/Cure53)       |  
+| :---------- | 
+| We received a one-off pro bono white box penetration test on our theme and plugins from Cure53, a renowned information security organization. The report is accessible here https://wordpresstheme.amnesty.org/wp-content/uploads/2024/05/AI-02-report.final_.v5-Fixes-redacted.pdf  |    
+
 
 Each of the 38 sites launched since 2018 that uses the theme and plugins have also improved the theme for existing and future users, thanks!
 

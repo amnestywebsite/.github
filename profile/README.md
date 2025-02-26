@@ -36,7 +36,7 @@ We have also had many contributions from our partner agency.
 | We received a one-off pro bono white box penetration test on our theme and plugins from [Cure53](https://cure53.de), a renowned information security organization. The report is accessible [here](https://wordpresstheme.amnesty.org/wp-content/uploads/2024/05/AI-02-report.final_.v5-Fixes-redacted.pdf)   |    
 
 
-Each of the 38 sites launched since 2018 that uses the theme and plugins have also improved the theme for existing and future users, thanks!
+Each of the 40 sites launched since 2018 that uses the theme and plugins have also improved the theme for existing and future users, thanks!
 
 
 ## Want to know more about the Humanity WordPress theme and plugins? 

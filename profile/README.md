@@ -17,8 +17,9 @@ We recognise and thank contributions from all people that help us, not just code
 | [Dave](https://github.com/daveamnesty)    |        
 | [KH](https://github.com/Khartzenberg)   |        
 | [Caroline](https://github.com/carolinejcourtney)    |             
+| [jaymcp](https://github.com/jaymcp)   |    
 
-We have also had many contributions from our partner agency. 
+We have also had many contributions from our partner agency who worked on the theme from 2018 to 2025. 
 
 | [BigBite](https://github.com/bigbite)        |  
 | :---------- | 

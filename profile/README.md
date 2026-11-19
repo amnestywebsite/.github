@@ -71,7 +71,6 @@ Each of the sites launched since 2018 that uses the theme and plugins have also 
 | Kenya	| https://www.amnestykenya.org |  
 | Luxembourg	| http://www.amnesty.lu | 
 | Malaysia	| http://www.amnesty.my | 
-| Mali	| http://www.amnestymali.org | 
 | Moldova	| http://www.amnesty.md | 
 | Morocco	| https://www.amnesty.ma | 
 | Nepal	| http://amnestynepal.org | 
